@@ -1,0 +1,11 @@
+ #date{
+    color:rgb(219, 36, 36);
+    font-family:fantasy;
+    font-size: 10px;
+    font-style: italic;
+   }   
+ #password{
+   color: blue;
+   font-size: 10px;
+   font-style: oblique;
+}
